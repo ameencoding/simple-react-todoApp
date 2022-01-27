@@ -1,4 +1,4 @@
-#TodoApp Using React. 
+TodoApp Using React. 
 
 I created this react app by just using props and state
 no react hooks no additional library.
